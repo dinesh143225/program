@@ -1,6 +1,7 @@
 #c program
-here you will find basic C code for some problem solving.
 
-*list*
+*here you will find basic C code for some problem solving.*
 
-1. Prime number checking.
+##list
+
+1. print the list of prime number.
